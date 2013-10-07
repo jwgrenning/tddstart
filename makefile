@@ -7,9 +7,9 @@ COMPONENT_NAME = Untitled
 #--- Inputs ----#
 PROJECT_HOME_DIR = .
 
-SRC_FILES = TddStart.cpp
+SRC_FILES = TddStart.cpp TddStartMain.cpp
 
-TEST_SRC_FILES = AllTests.cpp TddStartTest.cpp 
+TEST_SRC_FILES = AllTests.cpp TddStartTest.cpp TddStartMainTest.cpp 
 
 INCLUDE_DIRS =\
   .\
